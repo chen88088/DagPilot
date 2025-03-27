@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+gitpython
+python-dotenv
+
+openai
+langchain-community
+langchain-openai
+pyautogen
+faiss-cpu
+python-gitlab 
+jinja2

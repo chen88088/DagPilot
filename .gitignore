@@ -1,0 +1,30 @@
+# dotenv
+.env
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv_DagPilot_backend/
+
+# Node.js
+node_modules/
+
+# Caches
+.cache/
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
