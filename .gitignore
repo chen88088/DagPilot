@@ -8,10 +8,10 @@
 *.pyd
 
 # Virtual environment
-venv_DagPilot_backend/
+./backend/venv_DagPilot_backend/
 
 # Node.js
-node_modules/
+./frontend/node_modules/
 
 # Caches
 .cache/
