@@ -1,5 +1,5 @@
 # dotenv
-./backend/.env
+backend/.env
 
 # Python cache
 **/__pycache__/
@@ -11,7 +11,7 @@
 ./backend/venv_DagPilot_backend/
 
 # Node.js
-./frontend/node_modules/
+frontend/node_modules/
 
 # Caches
 .cache/
