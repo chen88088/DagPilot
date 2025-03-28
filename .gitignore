@@ -1,5 +1,3 @@
-# dotenv
-backend/.env
 
 # Python cache
 **/__pycache__/
@@ -8,7 +6,10 @@ backend/.env
 *.pyd
 
 # Virtual environment
-./backend/venv_DagPilot_backend/
+backend/venv_DagPilot_backend/
+
+# dotenv
+backend/.env
 
 # Node.js
 frontend/node_modules/
@@ -28,4 +29,3 @@ build/
 
 # macOS
 .DS_Store
-backend/.env
