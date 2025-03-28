@@ -1,5 +1,5 @@
 # dotenv
-.env
+./backend/.env
 
 # Python cache
 **/__pycache__/
@@ -28,3 +28,4 @@ build/
 
 # macOS
 .DS_Store
+backend/.env
