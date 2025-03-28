@@ -6,7 +6,7 @@
 *.pyd
 
 # Virtual environment
-backend/venv_DagPilot_backend/
+backend/VENV_Backend/
 
 # dotenv
 backend/.env
